@@ -40,7 +40,6 @@
       </ul>
     </li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -157,16 +156,6 @@ _The code in the book was tested with Python 3.9._
 Any contributions and suggestions you would make this better are **greatly appreciated**.
 
 Don't forget to give the project a star if you like this project! Thank you!
-
-
-<!-- CONTACT -->
-## Contact
-
-**Fran Wong**
-- [Profile](https://github.com/franfcwong)
-- [Email](mailto:franwongau@gmail.com?subject=Hi "Hi!")
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
